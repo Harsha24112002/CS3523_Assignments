@@ -1,0 +1,10 @@
+-- Waiting times in RW -- 
+Writer thread average wait time : 214.113
+Writer thread worst case wait time : 568.488
+Reader thread average wait time : 46.9853
+Reader thread worst case wait time : 264.203
+-- Waiting times in Fair RW -- 
+Writer thread average wait time : 249.728
+Writer thread worst case wait time : 391.236
+Reader thread average wait time : 251.423
+Reader thread worst case wait time : 394.051
